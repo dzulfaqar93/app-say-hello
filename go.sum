@@ -2,3 +2,5 @@ github.com/dzulfaqar93/go-say-hello v1.0.0 h1:PxwyLDXLOMhEW7EmCIWR5ipFcHb/WIb+xA
 github.com/dzulfaqar93/go-say-hello v1.0.0/go.mod h1:HeQXch9+822gsPYIkuWvklg8UIyCrIFPMMFyxQfXGuw=
 github.com/dzulfaqar93/go-say-hello v1.1.0 h1:orOnRfknoBwsL5v72x+5QHgJJjswCzckyQnv4R0O88g=
 github.com/dzulfaqar93/go-say-hello v1.1.0/go.mod h1:HeQXch9+822gsPYIkuWvklg8UIyCrIFPMMFyxQfXGuw=
+github.com/dzulfaqar93/go-say-hello/v2 v2.0.0 h1:U7k+F0YOyRO53brCdxSOGsWLJY5fDHIRCWJJ2YK60rk=
+github.com/dzulfaqar93/go-say-hello/v2 v2.0.0/go.mod h1:hNgw2nuEnZQm2G6B4E2yLPQQHcxxco8WjdeQgNn/FE8=
